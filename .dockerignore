@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.git/
+.venv/
+venv/
+.env
+extracted_bab4_images/
+extracted_manual_images/
+screenshots/
+screenshots_web/
+*.docx
+*.pdf
+*.bat
+*.ps1
+cloudflared.exe
+tunnel.log
